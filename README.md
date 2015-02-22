@@ -11,8 +11,10 @@ Extras:
  - mumble.ico - Shortcut icon
  - overlay.mumblelay - An overlay preset (Settings -> Overlay -> Load...)
 
+Contributing:
+ - Feel free to contribute via pull-request. Have a suggestion? Open an issue. :)
+
 Variants:
  - Make your own variant by cloning or forking this repo and editing any of the files in here that you'd like. Please read the LICENSE before you do anything.
- 
- ![Screenshot](http://i.imgur.com/H9ZFCaX.png)
- 
+
+![Screenshot](https://dylanhansch.net/img/tgcmumble.png)
