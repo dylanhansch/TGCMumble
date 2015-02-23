@@ -16,8 +16,8 @@
   selection-color: white;
 }
 
-#qtIconToolbar {
-	background: url(skin:logo.png) no-repeat center right;	
+#qtIconToolbar{
+	background: url(skin:images/logo.png) no-repeat center right;
 }
 
 DockTitleBar {
@@ -31,9 +31,9 @@ QDockWidget {
 
 QToolTip,
 QWhatsThis {
-  border: 1px solid #1c1c1c;
-  background-color: #1c1c1c;
-  color: #dddddd;
+  border: 1px solid #000000;
+  background-color: #dddddd;
+  color: #1c1c1c;
 }
 
 QTreeView.UserView,
@@ -46,6 +46,9 @@ QTextBrowser.LogTextBrowser {
 
 QTreeView.UserView {
   min-width: 50px;
+  background: url(skin:images/channel-bg.png) no-repeat center right;
+  background-size: 80px 60px;
+  background-color:#222222;
 }
 
 QMainWindow::separator {
