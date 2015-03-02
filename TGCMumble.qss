@@ -772,8 +772,8 @@ QAbstractScrollArea::corner {
 }
 
 #qteRichText, #qptePlainText, #qwMacWarning {
-  color: #dddddd;
-  background-color: #1c1c1c;
+  color: #1c1c1c;
+  background-color: #dddddd;
   border: 1px solid #1c1c1c;
   padding: 4px;
 }
