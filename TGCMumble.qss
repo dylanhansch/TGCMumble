@@ -17,7 +17,7 @@
 }
 
 #qtIconToolbar{
-	background: url(skin:images/logo.png) no-repeat center right;
+	background: url(skin:images/team-war.png) no-repeat center right;
 }
 
 DockTitleBar {
